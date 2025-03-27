@@ -13,7 +13,7 @@ maxRetries: 1
 concurrency: 2
 
 project:
-  name: 'testing-kamal' #project name
+  name: 'testing-kamal-2' #project name
   # id: '1abc2345-56de-7890-f1cg-h2ij34k56789' #project id
   
 env:
